@@ -4,7 +4,7 @@ Perkenalkan nama saya **Zahara Azalia**.<br>
 
 Saya seorang **Mahasiswa** di Universitas Gunadarma.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/zahara-azalia-54b966222)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]ku ya.
 
 ### Github Statistic
 <p align="left">
